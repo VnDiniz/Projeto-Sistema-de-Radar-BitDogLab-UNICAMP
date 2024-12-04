@@ -2,6 +2,8 @@
 
 Este projeto foi desenvolvido durante a disciplina EA076 - Laboratório de Sistemas Embarcados da UNICAMP pelo Vinicius Diniz Reolon e Thiago Masanori Hata, e tem como objetivo simular um Sistema de Radar, através da placa BitDogLab. Ele utiliza um sensor ultrassônico **HC-SR04** montado sobre um microservo **SG90** para realizar varreduras de 0 a 180 graus, capturando distâncias de objetos em até 20 cm. Os dados são enviados para um computador via serial, onde um programa em **Python** plota as medições em tempo real em um radar gráfico.
 
+<img src="https://i.ibb.co/CbpFyY2/Projeto-Sistema-de-Radar.jpg" alt="Projeto Sistema de Radar" width="950">
+
 ---
 
 ## 💻 **Como Usar**
